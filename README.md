@@ -1,3 +1,3 @@
 # 2020_1-kokoa-clone
 
-my first coding project!
+html and css are so much fun!
