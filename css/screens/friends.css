@@ -1,0 +1,20 @@
+#friends-display-link {
+  position: relative;
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  padding: 15px;
+  align-items: center;
+}
+#friends-display-link i {
+  color: rgba(0, 0, 0, 0.3);
+}
+#friends-display-link :first-child {
+  position: absolute;
+  left: 140px;
+}
+#friends-display-link :last-child {
+  position: absolute;
+  right: 150px;
+  bottom: 15px;
+}
