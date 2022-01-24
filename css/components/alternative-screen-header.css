@@ -1,0 +1,18 @@
+.alternative-header {
+  padding: var(--horizontal-space);
+  padding-top: 40px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alternative-header__title {
+  font-size: 28px;
+  font-weight: 600;
+}
+.alternative-header__column:first-child {
+  margin-right: auto;
+}
+.alternative-header__column:last-child {
+  margin-left: auto;
+}
