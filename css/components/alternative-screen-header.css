@@ -6,6 +6,9 @@
   align-items: center;
   justify-content: center;
 }
+.alternative-header__column {
+  width: 33%;
+}
 .alternative-header__title {
   font-size: 28px;
   font-weight: 600;
@@ -13,6 +16,14 @@
 .alternative-header__column:first-child {
   margin-right: auto;
 }
+.alternative-header__column:nth-child(2) {
+  text-align: center;
+}
 .alternative-header__column:last-child {
   margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.alternative-header__column span:last-child {
+  margin-left: 20px;
 }

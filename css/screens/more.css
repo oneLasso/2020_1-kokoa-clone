@@ -32,3 +32,15 @@
   font-size: 32px;
   color: white;
 }
+
+.empty__icon {
+  width: 60px;
+  height: 60px;
+}
+
+.chiwawa-game {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  border: 0.5px solid gray;
+}
